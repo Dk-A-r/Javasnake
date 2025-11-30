@@ -11,7 +11,7 @@
 Работа
 ![Snake Game Screenshot](screensh/working.png)
 Завершение игры
-![Snake Game Screenshot](screensh/working.png)
+![Game Over Screenshot](screensh/gameover.png)
 ---
 
 ## 🚀 Запуск проекта
