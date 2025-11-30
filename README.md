@@ -9,9 +9,9 @@
 ## 🎮 Скриншоты
 
 Работа
-`![Snake Game Screenshot](./screensh/working.png)`
+`![Snake Game Screenshot](working.png)`
 Завершение игры
-`![Snake Game Screenshot](./screensh/working.png)`
+`![Snake Game Screenshot](working.png)`
 ---
 
 ## 🚀 Запуск проекта
